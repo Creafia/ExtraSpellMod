@@ -81,7 +81,6 @@
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <ItemGroup>
-      <Content Include="CHANGE_NOTES_ExtraSpell.zh-CN.md" />
       <Content Include="ExtraSpell.sln" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
