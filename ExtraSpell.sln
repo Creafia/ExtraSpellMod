@@ -1,0 +1,12 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraSpell", "ExtraSpell.csproj", "{34FC16AC-4B36-46B8-B385-097C40EB73D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FC16AC-4B36-46B8-B385-097C40EB73D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FC16AC-4B36-46B8-B385-097C40EB73D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
