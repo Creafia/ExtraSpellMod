@@ -17,3 +17,6 @@
 - 魔法强度倍率
 - 魔法范围倍率
 - 魔力消耗倍率
+
+## steam workshop 发布
+https://steamcommunity.com/sharedfiles/filedetails/?id=3397284014
